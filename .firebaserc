@@ -1,5 +1,9 @@
 {
   "projects": {
-    "default": "pooja-rijal"
-  }
+    "default": "pooja-rijal-27b79",
+    "staging": "pooja-rijal-27b79"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
 }
